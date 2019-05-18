@@ -7,3 +7,5 @@ The bookstore application
 > Redux
 
 > Sass (SCSS)
+
+> Bootstrap
