@@ -1,8 +1,6 @@
 # Bookstore
 
-The bookstore application
-
-> React.js
+> React
 
 > Redux
 
@@ -10,10 +8,9 @@ The bookstore application
 
 > Bootstrap
 
-# ToDo
+## Useful elements
 
-* Usin' TypeScript
-* Usin' routing
-* Gettin' data from store for block with information from cart in header
-* Order Form
-* Usin' Middleware
+- [ ] React old style
+- [ ] HOCs
+- [ ] Redux old style
+- [ ] Cart logic
